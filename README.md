@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelCoding124
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning idk
 - 💞️ I’m looking to collaborate on the void
 - 📫 How to reach me: not yet lol
 
