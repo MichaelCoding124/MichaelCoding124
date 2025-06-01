@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MichaelCoding124
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning idk
+- 👀 I’m interested in coding C
+- 🌱 I’m currently learning things
 - 💞️ I’m looking to collaborate on the void
-- 📫 How to reach me: not yet lol
+- 📫 How to reach me: fuck you
 
 <!---
 MichaelCoding124/MichaelCoding124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
