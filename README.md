@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @MichaelCoding124
-- 👀 I’m interested in coding C
-- 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on the void
-- 📫 How to reach me: fuck you
+# hi, i'm michael! 👋
+
+I'm a student, code tinkerer, and creator of [verbose-guide](https://github.com/MichaelCoding124/verbose-guide). I love homebrew projects for Nintendo consoles like the Wii, 3DS, Wii U, and Switch.
+
+## 🔧 What I Do
+- Build and maintain **verbose-guide** for clear documentation and tutorials
+- Explore code from **homebrew** communities (Wii, 3DS, Wii U, Switch)
+- Tinker with new tech, debug, and optimize code
+- Share learning resources and help others get started
+
+## 🌟 Interests
+- Nintendo console homebrew development
+- Open-source projects and collaboration
+- Writing detailed guides and documentation
+
+## 📚 Student Life
+Always learning! I enjoy experimenting with new languages, frameworks, and hacking games/consoles to learn how things work.
+
+## 📫 How to Reach Me
+- [GitHub](https://github.com/MichaelCoding124)
+- Feel free to open issues or pull requests on my projects!
+
+---
+
+_Thanks for visiting my profile!_
 
 <!---
 MichaelCoding124/MichaelCoding124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
