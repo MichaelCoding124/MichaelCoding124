@@ -13,9 +13,6 @@ I'm a student, code tinkerer, and creator of [verbose-guide](https://github.com/
 - Open-source projects and collaboration
 - Writing detailed guides and documentation
 
-## 📚 Student Life
-Always learning! I enjoy experimenting with new languages, frameworks, and hacking games/consoles to learn how things work.
-
 ## 📫 How to Reach Me
 - [GitHub](https://github.com/MichaelCoding124)
 - Feel free to open issues or pull requests on my projects!
