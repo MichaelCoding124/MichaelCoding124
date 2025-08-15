@@ -5,13 +5,14 @@ I'm a student, code tinkerer, and creator of [verbose-guide](https://github.com/
 ## 🔧 What I Do
 - Build and maintain **verbose-guide** for clear documentation and tutorials
 - Explore code from **homebrew** communities (Wii, 3DS, Wii U, Switch)
-- Tinker with new tech, debug, and optimize code
+- Tinker with new tech, debug, and **try** to optimize code
 - Share learning resources and help others get started
 
 ## 🌟 Interests
 - Nintendo console homebrew development
 - Open-source projects and collaboration
 - Writing detailed guides and documentation
+- Check out my stars for cool projects from other people
 
 ## 📫 How to Reach Me
 - [GitHub](https://github.com/MichaelCoding124)
