@@ -12,7 +12,7 @@ I'm a student, code tinkerer, and creator of [verbose-guide](https://github.com/
 - Nintendo console homebrew development
 - Open-source projects and collaboration
 - Writing detailed guides and documentation
-- Check out my stars for cool projects from other people
+- Check out my [stars](https://github.com/MichaelCoding124?tab=stars) for cool projects from other people
 
 ## 📫 How to Reach Me
 - [GitHub](https://github.com/MichaelCoding124)
