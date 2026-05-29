@@ -10,7 +10,7 @@ I'm a student, code tinkerer, and creator of [verbose-guide](https://github.com/
 
 ## 🌟 Interests
 - Nintendo console homebrew development
-- Rock Band 3 Modding, Decompilation and Recompilation
+- Rock Band 3 Modding, Decompilation, and Recompilation
 - Open-source projects and collaboration
 - Writing detailed guides and documentation
 - Check out my [stars](https://github.com/MichaelCoding124?tab=stars) for niche projects from other people
